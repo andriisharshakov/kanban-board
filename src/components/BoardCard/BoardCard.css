@@ -1,0 +1,7 @@
+.BoardCard {
+  background-color: #202040;
+  border: solid 2px #101030;
+  border-radius: 0.5rem;
+  margin: 0.25rem;
+  padding: 0.5rem;
+}

@@ -1,0 +1,8 @@
+.BoardColumn {
+  background-color: #2A2A4A;
+}
+
+.BoardColumnTitle {
+  padding-left: 0.85rem;
+  color: #9B9B9F;
+}

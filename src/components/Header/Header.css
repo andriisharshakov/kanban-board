@@ -1,0 +1,7 @@
+.Header-motd {
+  color: #E0E0E0;
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  justify-content: right;
+}
